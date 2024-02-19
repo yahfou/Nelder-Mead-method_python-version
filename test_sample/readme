@@ -1,1 +1,5 @@
 Testing the optimization of 1D and 2D functions to find their optimal solutions.
+
+You can change the optimization to find the maximum value by simply negating the result of the objective function calculation.
+
+2024/02/20
