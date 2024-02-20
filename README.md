@@ -25,3 +25,7 @@ If you use ```Nelder-Mead-method_test_gif.py```, you will be able to observe the
 By using ```Nelder-Mead-method.py```, you can optimize parameters for an unknown multidimensional function by leveraging command window messages. Additionally, you have the flexibility to alter termination conditions to modify the number of iterations for optimal optimization.
 
 With ```Nelder-Mead-method_test_gif.py```, you can explore different 1D or 2D functions and observe the optimization results for various initial coordinates.
+## License
+
+The MIT License ([MIT](https://mit-license.org/))   
+Copyright © 2024 <https://github.com/yahfou>
