@@ -3,7 +3,9 @@
 When dealing with complex multidimensional models or non-differentiable functions, traditional optimization algorithms may face performance degradation or divergence issues. The Nelder-Mead method is designed specifically for multidimensional nonlinear optimization problems, making it well-suited for optimizing parameters of unknown systems.
 ### Features
 **Multidimensional Optimization:** The Nelder-Mead method excels in handling high-dimensional parameter spaces, making it suitable for complex parameter adjustment problems.
+
 **Nonlinear Functions:** Due to its excellent adaptability to nonlinear functions, the Nelder-Mead method is an ideal choice for dealing with non-differentiable functions or highly nonlinear problems.
+
 **Iterative Optimization:** By iteratively optimizing, the method seeks the minimum or maximum of the objective function.
 ## Requirements
 numpy
