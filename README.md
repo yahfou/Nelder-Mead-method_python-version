@@ -1,4 +1,5 @@
 # Nelder-Mead-method_python-version
+This project is inspired by Professor Chyun-Chau Fuh and has been personally modified by me in Python for use in my subsequent research. Currently, no significant errors have been identified.
 ## Introduction
 When dealing with complex multidimensional models or non-differentiable functions, traditional optimization algorithms may face performance degradation or divergence issues. The Nelder-Mead method is designed specifically for multidimensional nonlinear optimization problems, making it well-suited for optimizing parameters of unknown systems.
 ### Features
