@@ -2,6 +2,6 @@ Testing the optimization of 1D and 2D functions to find their optimal solutions.
 
 You can change the optimization to find the maximum value by simply negating the result of the objective function calculation.
 
-example: ```F[i - 1] = float(objective_function(PP0[i - 1, j - 1]))``` to ```-F[i - 1] = float(objective_function(PP0[i - 1, j - 1]))```
+example: F[i - 1] = float(objective_function(PP0[i - 1, j - 1])) to -F[i - 1] = float(objective_function(PP0[i - 1, j - 1]))
 
 2024/02/20
