@@ -8,10 +8,10 @@ When dealing with complex multidimensional models or non-differentiable function
 
 **Iterative Optimization:** By iteratively optimizing, the method seeks the minimum or maximum of the objective function.
 ## Requirements
-numpy
-matplotlib
-imageio
-os
+* numpy
+* matplotlib
+* imageio
+* os
 ## Descriptions
 The following is the graphical representation of the contraction action in the Nelder-Mead method.
 ![Graphic Representation of the Nelder-Mead method](https://github.com/yahfou/Nelder-Mead-method_python-version/blob/main/Graphic%20Representation%20of%20the%20Nelder-Mead%20method.png)
